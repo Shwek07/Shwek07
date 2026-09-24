@@ -1,4 +1,4 @@
-# Hi, I'm Shakeel 👋
+# Hi, I'm Shakeel Ramdhiansing👋
 
 ### Full-Stack Software Developer
 
@@ -18,7 +18,7 @@ clean architecture, maintainability and user experience.
 
 **Frontend**
 
-React • TypeScript • JavaScript • HTML • CSS
+React • NextJS • TypeScript • JavaScript • HTML • CSS 
 
 **Backend**
 

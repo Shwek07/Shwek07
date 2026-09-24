@@ -5,7 +5,7 @@
 ### Full-Stack Software Developer
 
 I build modern web applications, APIs, and SaaS products with a focus on  
-**clean architecture, maintainability, performance, and user experience.**
+**clean architecture, maintainability, performance and user experience.**
 
 
 </div>
@@ -14,12 +14,12 @@ I build modern web applications, APIs, and SaaS products with a focus on
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer who enjoys turning ideas into reliable, scalable, and polished digital products.
+I'm a full-stack developer who enjoys turning ideas into reliable, scalable and polished digital products.
 
-- ⚡ Building modern applications with **React, Next.js, TypeScript, and JavaScript**
-- 🔧 Developing **REST APIs, backend services, and third-party integrations**
+- ⚡ Building modern applications with **React, Next.js, TypeScript and JavaScript**
+- 🔧 Developing **REST APIs, backend services and third-party integrations**
 - 🐳 Working with **Docker and containerized development environments**
-- 🤖 Interested in **AI integrations, automation, and intelligent workflows**
+- 🤖 Interested in **AI integrations, automation and intelligent workflows**
 - 🚀 Enjoy building **SaaS products and production-ready applications**
 - 🏗️ Focused on **clean architecture and maintainable code**
 - 📚 Continuously improving my software engineering skills

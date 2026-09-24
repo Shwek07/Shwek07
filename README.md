@@ -8,7 +8,7 @@ clean architecture, maintainability and user experience.
 ## 👨‍💻 About Me
 
 - 💻 Full-stack web developer
-- ⚛️ Working with React, TypeScript and modern JavaScript
+- ⚛️ Working with React, Nextjs, TypeScript and modern JavaScript
 - 🔧 Building APIs and backend services
 - 🐳 Working with Docker and containerized development environments
 - 🚀 Interested in SaaS, automation and AI-powered products

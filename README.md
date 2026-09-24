@@ -28,27 +28,7 @@ Node.js • REST APIs • SQL
 
 Git • GitHub • Docker • VS Code
 
-## 🚀 Featured Projects
 
-### Project Name
-
-Short explanation of what the application does.
-
-**Tech:** React, TypeScript, Node.js
-
-[View repository →](YOUR_LINK)
-
----
-
-### Project Name
-
-Short explanation of the project and what problem it solves.
-
-**Tech:** Java, SQL
-
-[View repository →](YOUR_LINK)
-
-## 📫 Contact
 
 - LinkedIn: YOUR_LINK
 - Portfolio: YOUR_LINK

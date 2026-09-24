@@ -64,18 +64,6 @@ I'm a full-stack developer who enjoys turning ideas into reliable, scalable, and
 - 🏗️ Maintainable software architecture
 
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shwek07&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwek07&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
-
 
 ---
 
